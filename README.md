@@ -32,3 +32,9 @@
 
 👉 **Telegram**: [@ios_vip8888](https://t.me/ios_vip8888)  
 🔗 **詳細介紹**: [https://introduce.httopp12.xyz/](https://introduce.httopp12.xyz/)
+
+![使用圖片介紹](https://introduce.httopp12.xyz/assets/images/%E7%94%A8%E6%88%B6%E9%A9%97%E8%AD%89%E9%A0%81%E9%9D%A2.jpg)
+![使用圖片介紹](https://introduce.httopp12.xyz/assets/images/%E8%AD%89%E6%9B%B8%E7%AE%A1%E7%90%86%E9%A0%81%E9%9D%A2_%E6%94%AF%E6%8C%81%E4%BC%81%E6%A5%AD%E8%AD%89%E6%9B%B8_%E5%80%8B%E4%BA%BA%E8%AD%89%E6%9B%B8P12%E7%B0%BD%E5%90%8D.jpg)
+![使用圖片介紹](https://introduce.httopp12.xyz/assets/images/%E8%B3%BC%E8%B2%B7%E7%A2%BA%E8%AA%8D.jpg)
+![使用圖片介紹](https://introduce.httopp12.xyz/assets/images/%E9%81%8A%E6%88%B2%E7%AE%A1%E7%90%86.jpg)
+![使用圖片介紹](https://introduce.httopp12.xyz/assets/images/%E9%81%8A%E6%88%B2%E7%AE%A1%E7%90%86-%E5%85%A8%E8%83%BD%E7%B0%BD%E6%A8%A1%E5%BC%8F-%E9%80%B2%E9%9A%8E%E9%85%8D%E7%BD%AE.jpg)
