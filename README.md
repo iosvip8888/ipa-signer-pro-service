@@ -49,6 +49,7 @@
 我們提供容器快速一鍵腳本部屬。請確保您的伺服器為乾淨的系統 (CenOS 7.6)。
 
 ![使用圖片介紹](https://introduce.httopp12.xyz/assets/images/%E7%94%A8%E6%88%B6%E9%A9%97%E8%AD%89%E9%A0%81%E9%9D%A2.jpg)
+![使用圖片介紹](https://introduce.httopp12.xyz/assets/images/%E8%A7%A3%E9%8E%96%E7%A2%BC%E7%AE%A1%E7%90%86.jpg)
 ![使用圖片介紹](https://introduce.httopp12.xyz/assets/images/%E8%AD%89%E6%9B%B8%E7%AE%A1%E7%90%86%E9%A0%81%E9%9D%A2_%E6%94%AF%E6%8C%81%E4%BC%81%E6%A5%AD%E8%AD%89%E6%9B%B8_%E5%80%8B%E4%BA%BA%E8%AD%89%E6%9B%B8P12%E7%B0%BD%E5%90%8D.jpg)
 ![使用圖片介紹](https://introduce.httopp12.xyz/assets/images/%E8%AD%89%E6%9B%B8%E5%BF%AB%E9%80%9F%E6%AA%A2%E6%B8%AC.jpg)
 ![使用圖片介紹](https://introduce.httopp12.xyz/assets/images/%E8%B3%BC%E8%B2%B7%E7%A2%BA%E8%AA%8D.jpg)
