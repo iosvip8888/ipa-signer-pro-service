@@ -58,20 +58,23 @@
 ![使用圖片介紹](https://introduce.httopp12.xyz/assets/images/%E9%81%8A%E6%88%B2%E7%AE%A1%E7%90%86-%E5%85%A8%E8%83%BD%E7%B0%BD%E6%A8%A1%E5%BC%8F-%E9%80%B2%E9%9A%8E%E9%85%8D%E7%BD%AE.jpg)
 ------------------------------------
 
-🚀 Professional iOS Signing Service Hosting
+Professional iOS Signing Service Hosting
 One-stop solution  Certificate pre-order mechanism  Enterprise-to-Personal conversion  Multi-language backend  The preferred choice for resellers
+
 📦 Containerized Hosting for Professional iOS Signing Services
-Want to build your own signing brand? We provide a complete one-stop containerized deployment and maintenance service.
-For resellers and operators, server environment setup and certificate maintenance are often the most painful challenges. We offer Docker container deployment and monthly technical support, so you can focus on business growth while leaving the technical headaches to us.
+Want to build your own signing brand?
+We provide a complete one-stop containerized deployment and maintenance service.
+For resellers and operators, server environment setup and certificate maintenance are often the most painful challenges.
+We offer Docker container deployment and monthly technical support, so you can focus on business growth while leaving the technical headaches to us.
 Demo site: https://abc.httopp12.xyz/
 
 👀 Solving Traditional Signing Pain Points
-❌ Requires installing signing tools and teaching users complicated steps.
-❌ Distribution platforms often don’t support direct P12 uploads, preventing users from signing and installing apps easily.
-❌ No certificate sharing between users, forcing purchases from certificate vendors who resell the same certificate multiple times.
+• 	❌ Requires installing signing tools and teaching users complicated steps.
+• 	❌ Distribution platforms often don’t support direct P12 uploads, preventing users from signing and installing apps easily.
+• 	❌ No certificate sharing between users, forcing purchases from certificate vendors who resell the same certificate multiple times.
 
 💎 Why Choose Our Hosting Service?
-🔧 Zero-experience deployment
+🔧 Zero-experience Deployment
 • 	Fast launch: From server initialization to a fully operational signing platform, we handle the entire process.
 • 	Environment isolation: Each client runs in an independent Docker container with a private server. Data is fully isolated, secure, and private.
 🛠️ Continuous Technical Updates (Monthly Support)
@@ -80,7 +83,10 @@ Demo site: https://abc.httopp12.xyz/
 • 	Multi-language support: Built-in Traditional Chinese, Simplified Chinese, English, and Vietnamese to help you expand globally.
 📈 Core Business Logic
 • 	Direct P12 upload support: Both enterprise and personal certificates are supported. Automatic replacement ensures uninterrupted service.
-• 	Enterprise-to-Personal conversion: Beyond instant enterprise signing, we offer a certificate pre-order mechanism. Users initially sign with an enterprise certificate (private or public). Meanwhile, the system registers a personal certificate (review time 48–72 hours). Once approved, the backend notifies you to have the user reinstall with the personal certificate. The process is seamless, cost-effective, and user-friendly.
+• 	Enterprise-to-Personal conversion: Beyond instant enterprise signing, we offer a certificate pre-order mechanism.
+Users initially sign with an enterprise certificate (private or public). Meanwhile, the system registers a personal certificate (review time 48–72 hours).
+Once approved, the backend notifies you to have the user reinstall with the personal certificate.
+The process is seamless, cost-effective, and user-friendly.
 💼 Certificate Marketplace
 • 	Users can trade certificates with transparent sources and auditable records. Prices are more competitive than buying directly from vendors.
 • 	The platform supports revenue-sharing, enabling resellers to reduce costs while generating extra income.
@@ -98,4 +104,5 @@ Looking for a stable, efficient, and maintenance-free signing solution? Contact 
 🔗 Detailed introduction: https://introduce.httopp12.xyz/
 
 🛠️ Quick Deployment (Quick Start)
-We provide one-click container deployment scripts. Please ensure your server is a clean system (CentOS 7.6).
+We provide one-click container deployment scripts.
+Please ensure your server is a clean system (CentOS 7.6).
