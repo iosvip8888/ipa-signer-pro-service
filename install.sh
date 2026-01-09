@@ -80,7 +80,7 @@ if [ -z "$GH_READ_TOKEN" ]; then
 fi
 
 # 執行登入
-echo "$GH_READ_TOKEN" | docker login ghcr.io -u i2266asdasd --password-stdin > /dev/null 2>&1
+echo "$GH_READ_TOKEN" | docker login ghcr.io -u iosvip8888 --password-stdin > /dev/null 2>&1
 
 if [ $? -eq 0 ]; then
     echo -e "${GREEN}✅ 鏡像倉庫授權成功${NC}"
