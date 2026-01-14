@@ -48,7 +48,7 @@
 4. **維護**：每月固定維護費，包含技術支持、故障排除、功能更新。
 
 ## 📢 代理合作 / 業務諮詢
-如果您正在尋找穩定、高效且無需維護成本的簽名方案，請聯繫：
+如果您正在尋找穩定、高效的簽名方案，請聯繫：
 
 👉 **Telegram**: [@ios_vip8888](https://t.me/ios_vip8888)  
 🔗 **詳細介紹**: [https://introduce.httopp12.xyz/](https://introduce.httopp12.xyz/)
